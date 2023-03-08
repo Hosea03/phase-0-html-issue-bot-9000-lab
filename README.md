@@ -2,6 +2,8 @@
 
 ## Learning Goals
 
+target="_blank"
+
 - Demonstrate writing valid HTML
 
 ## Introduction
